@@ -1,2 +1,2 @@
 # odin-recipes
-Recipie Web Dev 
+Recipie Web Development 
