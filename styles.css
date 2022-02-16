@@ -1,0 +1,13 @@
+h1 {color: purple;
+    background-color: hsl(211, 37%, 88%); 
+    text-align: center;
+    font: bold;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+ul {color:rgb(17, 126, 50); 
+    background-color: hsl(211, 37%, 88%); 
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    
+}
