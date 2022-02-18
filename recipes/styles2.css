@@ -1,0 +1,24 @@
+/* Beef Curry page */
+
+.beef {color: rgb(139, 69, 11);
+    background-color: hsl(213, 18%, 88%); 
+    font: bold;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+
+/* Lemonaid page */
+
+.title {color: rgb(255, 129, 112);
+    background-color: rgb(252, 249, 229);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    text-align: center;
+}
+
+.headers {color: rgb(255, 129, 112);
+    background-color: rgb(252, 249, 229);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+}
